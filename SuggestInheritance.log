@@ -2380,6 +2380,7 @@ Start suggest inherit (log file: SuggestInheritance.log)
 	StopPlanetaryFortress/PlanetaryFortress default: P
 	StopPlanetaryFortress/WarfieldFortress default: P
 	Tempest/Stargate default: T
+	TempestResearchGroundAttackUpgrade/FleetBeacon default: T
 	TerranVehiclePlatingLevel2/Armory default: V
 	TerranVehiclePlatingLevel3/Armory default: V
 	TychusMarauderHealingWardSpeedBuffLearn/TychusArmory default: 

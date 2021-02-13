@@ -2034,6 +2034,7 @@ TechReactorAI/StarportFlying=Y
 Tempest/Stargate=V
 TempestDisruptionBlast/Tempest=E,Space
 TempestRangeUpgrade/FleetBeacon=F
+TempestResearchGroundAttackUpgrade/FleetBeacon=V
 TemplarArchive/Harvester=Space
 TemplarArchive/Probe=Space
 TemporalField/Mothership=E
