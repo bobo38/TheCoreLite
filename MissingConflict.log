@@ -232,6 +232,9 @@ in seed TheCore Lite, keys =R
 [ERROR]: CommanderPrestigeDehakaPackLeadersRetreat/DehakaMurvar not related to a conflict
 in seed TheCore Lite, keys =R
 
+[ERROR]: CommanderPrestigeZagaraMaxSupplyScourgeSpawn/ScourgeNest not related to a conflict
+in seed TheCore Lite, keys =C
+
 [ERROR]: CommanderPrestigeZagaraZagaraDeepTunnel/ZagaraVoidCoop not related to a conflict
 in seed TheCore Lite, keys =C
 
@@ -272,6 +275,9 @@ in seed TheCore Lite, keys =Space
 in seed TheCore Lite, keys =5
 
 [ERROR]: DehakaAirAttackUpgrade/DehakaCoop not related to a conflict
+in seed TheCore Lite, keys =V
+
+[ERROR]: DehakaAirAttackUpgrade/DehakaCoopClone not related to a conflict
 in seed TheCore Lite, keys =V
 
 [ERROR]: DehakaBarracks/DehakaDrone not related to a conflict
@@ -779,6 +785,9 @@ in seed TheCore Lite, keys =Space,D,R,T,G,C
 in seed TheCore Lite, keys =
 
 [ERROR]: LearnDehakaArmorUpgrade/DehakaCoop not related to a conflict
+in seed TheCore Lite, keys =5
+
+[ERROR]: LearnDehakaArmorUpgrade/DehakaCoopClone not related to a conflict
 in seed TheCore Lite, keys =5
 
 [ERROR]: LearnDehakaConsume/DehakaCoop not related to a conflict
@@ -1756,6 +1765,9 @@ in seed TheCore Lite, keys =5
 [ERROR]: TempestDisruptionBlast/Tempest not related to a conflict
 in seed TheCore Lite, keys =E,Space
 
+[ERROR]: TempestResearchGroundAttackUpgrade/FleetBeacon not related to a conflict
+in seed TheCore Lite, keys =V
+
 [ERROR]: TerranBuild not related to a conflict
 in seed TheCore Lite, keys =Space,C
 
@@ -2149,7 +2161,13 @@ in seed TheCore Lite, keys =E
 [ERROR]: ZeratulBlink/ZeratulCoop not related to a conflict
 in seed TheCore Lite, keys =Space
 
+[ERROR]: ZeratulKhaydarinMonolithWarp/ZeratulKhaydarinMonolith not related to a conflict
+in seed TheCore Lite, keys =Space
+
 [ERROR]: ZeratulObserver/ZeratulRoboticsFacility not related to a conflict
+in seed TheCore Lite, keys =Space
+
+[ERROR]: ZeratulPhaseCannonProjectionPassive/ZeratulPhotonCannon not related to a conflict
 in seed TheCore Lite, keys =Space
 
 [ERROR]: ZeratulPurificationNovaTargeted/ZeratulDisruptor not related to a conflict
@@ -2217,21 +2235,6 @@ in seed TheCore Lite, keys =D
 
 [ERROR]: ZerglingStetmannRespawn/SpawningPoolStetmann not related to a conflict
 in seed TheCore Lite, keys =G
-
-[ERROR]: CommanderPrestigeZagaraMaxSupplyScourgeSpawn/ScourgeNest not related to a conflict
-in seed TheCore Lite, keys =C
-
-[ERROR]: DehakaAirAttackUpgrade/DehakaCoopClone not related to a conflict
-in seed TheCore Lite, keys =V
-
-[ERROR]: LearnDehakaArmorUpgrade/DehakaCoopClone not related to a conflict
-in seed TheCore Lite, keys =5
-
-[ERROR]: ZeratulKhaydarinMonolithWarp/ZeratulKhaydarinMonolith not related to a conflict
-in seed TheCore Lite, keys =Space
-
-[ERROR]: ZeratulPhaseCannonProjectionPassive/ZeratulPhotonCannon not related to a conflict
-in seed TheCore Lite, keys =Space
 
 [WARN]: 330mmBarrageCannons/Thor not related to a conflict
 but is inherited
@@ -2882,5 +2885,5 @@ but is inherited
 in seed TheCore Lite, keys =T
 
 ----------------------------
-Finished (commands with no attached conflict) - ERRORs: 744 WARNs: 144 
+Finished (commands with no attached conflict) - ERRORs: 745 WARNs: 144 
 ============================
