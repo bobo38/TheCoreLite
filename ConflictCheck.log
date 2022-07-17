@@ -1,6 +1,110 @@
 ============================
 Start conflict check (log file: ConflictCheck.log)
 ----------------------------
+[ERROR]: Conflict of hotkeys in seed: TheCore Lite commandcard: Coop/Protoss Story/Units/Mothership
+Command in conflict :
+- SOAMothershipLineAttack/SOAMothershipv4
+- VoidSentryBlackHole/SOAMothershipv4
+Remap hints for command: SOAMothershipLineAttack/SOAMothershipv4
+-CONFLICT- Coop/Protoss Story/Units/Mothership
+D	Attack
+H	Move
+G	MoveHoldPosition
+T	MovePatrol
+Space	SOAMothershipBlink/SOAMothershipv4
+E,Space	SOAMothershipLineAttack/SOAMothershipv4
+V	Stop
+E	VoidSentryBlackHole/SOAMothershipv4
+-CONFLICT- alliedcommanders/SOAMothershipv4
+D	Attack
+H	Move
+G	MoveHoldPosition
+T	MovePatrol
+Space	SOAMothershipBlink/SOAMothershipv4
+E,Space	SOAMothershipLineAttack/SOAMothershipv4
+V	Stop
+E	VoidSentryBlackHole/SOAMothershipv4
+List of forbidden keys:
+['D', 'H', 'G', 'T', 'Space', 'E', 'V']
+
+[ERROR]: Conflict of hotkeys in seed: TheCore Lite commandcard: Coop/Protoss Story/Units/Mothership
+Command in conflict :
+- SOAMothershipBlink/SOAMothershipv4
+- SOAMothershipLineAttack/SOAMothershipv4
+Remap hints for command: SOAMothershipBlink/SOAMothershipv4
+-CONFLICT- Coop/Protoss Story/Units/Mothership
+D	Attack
+H	Move
+G	MoveHoldPosition
+T	MovePatrol
+Space	SOAMothershipBlink/SOAMothershipv4
+E,Space	SOAMothershipLineAttack/SOAMothershipv4
+V	Stop
+E	VoidSentryBlackHole/SOAMothershipv4
+-CONFLICT- alliedcommanders/SOAMothershipv4
+D	Attack
+H	Move
+G	MoveHoldPosition
+T	MovePatrol
+Space	SOAMothershipBlink/SOAMothershipv4
+E,Space	SOAMothershipLineAttack/SOAMothershipv4
+V	Stop
+E	VoidSentryBlackHole/SOAMothershipv4
+List of forbidden keys:
+['D', 'H', 'G', 'T', 'Space', 'E', 'V']
+
+[ERROR]: Conflict of hotkeys in seed: TheCore Lite commandcard: alliedcommanders/SOAMothershipv4
+Command in conflict :
+- SOAMothershipLineAttack/SOAMothershipv4
+- VoidSentryBlackHole/SOAMothershipv4
+Remap hints for command: SOAMothershipLineAttack/SOAMothershipv4
+-CONFLICT- Coop/Protoss Story/Units/Mothership
+D	Attack
+H	Move
+G	MoveHoldPosition
+T	MovePatrol
+Space	SOAMothershipBlink/SOAMothershipv4
+E,Space	SOAMothershipLineAttack/SOAMothershipv4
+V	Stop
+E	VoidSentryBlackHole/SOAMothershipv4
+-CONFLICT- alliedcommanders/SOAMothershipv4
+D	Attack
+H	Move
+G	MoveHoldPosition
+T	MovePatrol
+Space	SOAMothershipBlink/SOAMothershipv4
+E,Space	SOAMothershipLineAttack/SOAMothershipv4
+V	Stop
+E	VoidSentryBlackHole/SOAMothershipv4
+List of forbidden keys:
+['D', 'H', 'G', 'T', 'Space', 'E', 'V']
+
+[ERROR]: Conflict of hotkeys in seed: TheCore Lite commandcard: alliedcommanders/SOAMothershipv4
+Command in conflict :
+- SOAMothershipBlink/SOAMothershipv4
+- SOAMothershipLineAttack/SOAMothershipv4
+Remap hints for command: SOAMothershipBlink/SOAMothershipv4
+-CONFLICT- Coop/Protoss Story/Units/Mothership
+D	Attack
+H	Move
+G	MoveHoldPosition
+T	MovePatrol
+Space	SOAMothershipBlink/SOAMothershipv4
+E,Space	SOAMothershipLineAttack/SOAMothershipv4
+V	Stop
+E	VoidSentryBlackHole/SOAMothershipv4
+-CONFLICT- alliedcommanders/SOAMothershipv4
+D	Attack
+H	Move
+G	MoveHoldPosition
+T	MovePatrol
+Space	SOAMothershipBlink/SOAMothershipv4
+E,Space	SOAMothershipLineAttack/SOAMothershipv4
+V	Stop
+E	VoidSentryBlackHole/SOAMothershipv4
+List of forbidden keys:
+['D', 'H', 'G', 'T', 'Space', 'E', 'V']
+
 ----------------------------
-Finished (conflict check) - ERRORs: 0 
+Finished (conflict check) - ERRORs: 4 
 ============================

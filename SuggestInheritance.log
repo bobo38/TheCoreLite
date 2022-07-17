@@ -74,7 +74,6 @@ Start suggest inherit (log file: SuggestInheritance.log)
 
 [INFO]: TheCore Lite: 4   
 	AdvancedConstructionAuto/SCV default: 
-	BatteryOvercharge/Nexus default: 
 	BiodomeLoad/Biodome default: L
 	BiodomeLoad/BiodomeHalfBuilt default: L
 	BiodomeLoad/InfestableBiodome default: L
@@ -308,12 +307,12 @@ Start suggest inherit (log file: SuggestInheritance.log)
 	250mmStrikeCannons/Thor default: C
 	250mmStrikeCannons/ThorWreckageSwann default: C
 	330mmBarrageCannons/Thor default: C copyof: 250mmStrikeCannons/Thor default: C
-	AbathurDeepTunnel default: 
 	AberrationProtectiveCover/InfestedAbomination default: B
 	AberrationProtectiveCover/InfestedAbominationBurrowed default: B
 	AlarakMindBlast/PitAlarak default: Q
 	Barracks/SCV default: B
 	BarracksMengsk/SCVMengsk default: 
+	BatteryOvercharge/Nexus default: 
 	Battlecruiser/VoidRift default: B
 	Battlecruiser/VoidRiftUnselectable default: B
 	BioStasis/Leviathan default: T
@@ -436,7 +435,6 @@ Start suggest inherit (log file: SuggestInheritance.log)
 	MindBolt/KerriganVoidBurrowed default: Q copyof: MindBolt/K5KerriganBurrowed default: Q
 	MorphToHydraliskImpaler/Larva default: H copyof: Hydralisk/Larva default: H
 	MorphToHydraliskLurker/Larva default: H copyof: Hydralisk/Larva default: H
-	NexusMassRecall/Nexus default: 
 	NexusShieldRecharge/Nexus default: 
 	NovaGadgetPulseGrenades/NovaHero default: W
 	NovaGadgetPulseGrenades/NovaVulture default: W
@@ -822,6 +820,7 @@ Start suggest inherit (log file: SuggestInheritance.log)
 	CalldownMULE/CommandCenter default: E copyof: CalldownMULE/OrbitalCommand default: E
 	CalldownMULE/OrbitalCommand default: E
 	Carrier/SuperWarpGate default: C
+	ChronoBoostEnergyCost/Nexus default: 
 	CommandCenter/HHSCV default: 
 	CommandCenter/SCV default: C
 	CommandCenterMengsk/SCVMengsk default: 
@@ -1115,7 +1114,6 @@ Start suggest inherit (log file: SuggestInheritance.log)
 
 [INFO]: TheCore Lite: E,R   
 	BuildPointDefenseDrone/Raven default: D copyof: PointDefenseDrone/Raven default: D
-	ChronoBoostEnergyCost/Nexus default: 
 	FlagshipTimeBomb/Flagship default: T
 	ForceField/Sentry default: F
 	ForceField2/Sentry2 default:  copyof: ForceField/Sentry default: F
@@ -1173,6 +1171,7 @@ Start suggest inherit (log file: SuggestInheritance.log)
 	RavagerAbathurCorrosiveBile/RavagerAbathur default: C
 	RavagerCorrosiveBile/Ravager default: C
 	SJHyperionYamato/SJHyperion default: E copyof: YamatoGun default: Y
+	SOAMothershipLineAttack/SOAMothershipv4 default: R
 	StukovInfestedDiamondbackSnare/StukovInfestedDiamondBack default: 
 	TempestDisruptionBlast/Tempest default: D
 	ToxicNestExplode/ToxicNest default: 
@@ -1190,6 +1189,7 @@ Start suggest inherit (log file: SuggestInheritance.log)
 
 [INFO]: TheCore Lite: F   
 	AWrp default: C
+	AbathurDeepTunnel default: 
 	AbathurDeepTunnel/ImpalerAbathur default: D
 	AbathurDeepTunnel/ImpalerAbathurBurrowed default: D
 	AbathurDeepTunnel/SwarmHost default: D
@@ -1759,6 +1759,7 @@ Start suggest inherit (log file: SuggestInheritance.log)
 	MorphtoRoach/Larva default:  copyof: Roach/Larva default: R
 	MothershipCoreMassRecall/MothershipCore default: R
 	MothershipMassRecall/Mothership default: R copyof: MothershipCoreMassRecall/MothershipCore default: R
+	NexusMassRecall/Nexus default: 
 	NovaDomination/NovaHero default: 
 	NovaSwitchAssaultMode default: 
 	NovaSwitchAssaultMode/NovaCoop default: 
@@ -1814,7 +1815,6 @@ Start suggest inherit (log file: SuggestInheritance.log)
 	SIUproot/SIMissileTurret default: 
 	SIUproot/SIStarport default: 
 	SJHyperionLightningStorm/SJHyperion default: R
-	SOAMothershipLineAttack/SOAMothershipv4 default: R
 	SS_LeviathanTentacleAttackR1NoDelay/SS_Plane default: X
 	ShieldBatteryRecharge/ShieldBattery default: R
 	SiegeTank_BlackOpsUnsiege default: 

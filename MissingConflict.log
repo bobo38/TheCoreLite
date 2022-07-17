@@ -8,7 +8,7 @@ in seed TheCore Lite, keys =Space
 in seed TheCore Lite, keys =R
 
 [ERROR]: AbathurDeepTunnel not related to a conflict
-in seed TheCore Lite, keys =C
+in seed TheCore Lite, keys =F
 
 [ERROR]: AbathurDeepTunnel/SwarmHostSplitB not related to a conflict
 in seed TheCore Lite, keys =F
@@ -89,7 +89,7 @@ in seed TheCore Lite, keys =E,Space
 in seed TheCore Lite, keys =C
 
 [ERROR]: BatteryOvercharge/Nexus not related to a conflict
-in seed TheCore Lite, keys =4
+in seed TheCore Lite, keys =C
 
 [ERROR]: BattleRage/Khraxus not related to a conflict
 in seed TheCore Lite, keys =
@@ -206,7 +206,7 @@ in seed TheCore Lite, keys =F
 in seed TheCore Lite, keys =Space
 
 [ERROR]: ChronoBoostEnergyCost/Nexus not related to a conflict
-in seed TheCore Lite, keys =E,R
+in seed TheCore Lite, keys =E
 
 [ERROR]: ClassicQueen/Hatchery not related to a conflict
 in seed TheCore Lite, keys =6
@@ -1013,7 +1013,7 @@ in seed TheCore Lite, keys =
 in seed TheCore Lite, keys =Space
 
 [ERROR]: NexusMassRecall/Nexus not related to a conflict
-in seed TheCore Lite, keys =C
+in seed TheCore Lite, keys =R
 
 [ERROR]: NexusShieldRecharge/Nexus not related to a conflict
 in seed TheCore Lite, keys =C

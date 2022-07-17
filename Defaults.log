@@ -673,7 +673,6 @@ Start Check defaults (log file: Defaults.log)
 [WARN]: no default TechReactor/Barracks
 [WARN]: no default TechReactor/Factory
 [WARN]: no default TechReactor/Starport
-[WARN]: no default TempestResearchGroundAttackUpgrade/FleetBeacon
 [WARN]: no default TemplarArchive/Harvester
 [WARN]: no default TerranBuild
 [WARN]: no default TerranBuild/HHSCV
@@ -841,5 +840,5 @@ Start Check defaults (log file: Defaults.log)
 [WARN]: no default ZerglingStetmann/LarvaStetmann
 [WARN]: no default ZerglingStetmannRespawn/SpawningPoolStetmann
 ----------------------------
-Finished (Check defaults) - WARNs: 839 ERRORs: 0 
+Finished (Check defaults) - WARNs: 838 ERRORs: 0 
 ============================
