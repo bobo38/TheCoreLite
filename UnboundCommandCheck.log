@@ -2,66 +2,310 @@
 Start unbound commands, within identified conflicts (log file: UnboundCommandCheck.log)
 ----------------------------
 [ERROR]:  unbound command ActivateIbikisCannon/PlanetaryFortress, in seed TheCore Lite
+Remap hints for command: ActivateIbikisCannon/PlanetaryFortress
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command Aggressive/LurkerMPBurrowed, in seed TheCore Lite
+Remap hints for command: Aggressive/LurkerMPBurrowed
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command BattleRage/Khraxus, in seed TheCore Lite
+Remap hints for command: BattleRage/Khraxus
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command DarkSwarm/Infestor, in seed TheCore Lite
+Remap hints for command: DarkSwarm/Infestor
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command Detonate/SpiderMine, in seed TheCore Lite
+Remap hints for command: Detonate/SpiderMine
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command EnrageQueen/Queen, in seed TheCore Lite
+Remap hints for command: EnrageQueen/Queen
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command EvadeObserver/Observer, in seed TheCore Lite
+Remap hints for command: EvadeObserver/Observer
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command Glare/Oracle, in seed TheCore Lite
+Remap hints for command: Glare/Oracle
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command Guardian/Mutalisk, in seed TheCore Lite
+Remap hints for command: Guardian/Mutalisk
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command HellfireThrusters/StarportTechLab, in seed TheCore Lite
+Remap hints for command: HellfireThrusters/StarportTechLab
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command InjectLarva/Queen, in seed TheCore Lite
+Remap hints for command: InjectLarva/Queen
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command LaunchNullWard/NullSphere, in seed TheCore Lite
+Remap hints for command: LaunchNullWard/NullSphere
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command LockdownRound/Ghost, in seed TheCore Lite
+Remap hints for command: LockdownRound/Ghost
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command Matrix/Medic, in seed TheCore Lite
+Remap hints for command: Matrix/Medic
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command MutateintoDefilerMound/Drone, in seed TheCore Lite
+Remap hints for command: MutateintoDefilerMound/Drone
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command NerveJam/ScienceVessel, in seed TheCore Lite
+Remap hints for command: NerveJam/ScienceVessel
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command NurturingSwarm/Queen, in seed TheCore Lite
+Remap hints for command: NurturingSwarm/Queen
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command Overcharge/OrbitalCommand, in seed TheCore Lite
+Remap hints for command: Overcharge/OrbitalCommand
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command Passive, in seed TheCore Lite
+Remap hints for command: Passive
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command PhaseMissile/Scout, in seed TheCore Lite
+Remap hints for command: PhaseMissile/Scout
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command PlaceWard/Oracle, in seed TheCore Lite
+Remap hints for command: PlaceWard/Oracle
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command Plague/Infestor, in seed TheCore Lite
+Remap hints for command: Plague/Infestor
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command PrimalConsume/Infestor, in seed TheCore Lite
+Remap hints for command: PrimalConsume/Infestor
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command Recall/Arbiter, in seed TheCore Lite
+Remap hints for command: Recall/Arbiter
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command ResearchBarrelStabilizers/BarracksTechLab, in seed TheCore Lite
+Remap hints for command: ResearchBarrelStabilizers/BarracksTechLab
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command ResearchCharonBooster/FactoryTechLab, in seed TheCore Lite
+Remap hints for command: ResearchCharonBooster/FactoryTechLab
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command ResearchEMP/StarportTechLab, in seed TheCore Lite
+Remap hints for command: ResearchEMP/StarportTechLab
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command ResearchEngineeredExplosives/BarracksTechLab, in seed TheCore Lite
+Remap hints for command: ResearchEngineeredExplosives/BarracksTechLab
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command ResearchEvadeObserver/Observatory, in seed TheCore Lite
+Remap hints for command: ResearchEvadeObserver/Observatory
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command ResearchFortifiedBunkers/EngineeringBay, in seed TheCore Lite
+Remap hints for command: ResearchFortifiedBunkers/EngineeringBay
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command ResearchIonThrusters/FactoryTechLab, in seed TheCore Lite
+Remap hints for command: ResearchIonThrusters/FactoryTechLab
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command ResearchIrradiate/StarportTechLab, in seed TheCore Lite
+Remap hints for command: ResearchIrradiate/StarportTechLab
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command ResearchKhaydarinCore/ArbiterTribunal, in seed TheCore Lite
+Remap hints for command: ResearchKhaydarinCore/ArbiterTribunal
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command ResearchKhaydarinGenerator/FleetBeacon, in seed TheCore Lite
+Remap hints for command: ResearchKhaydarinGenerator/FleetBeacon
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command ResearchMatrix/BarracksTechLab, in seed TheCore Lite
+Remap hints for command: ResearchMatrix/BarracksTechLab
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command ResearchPiercingRockets/StarportTechLab, in seed TheCore Lite
+Remap hints for command: ResearchPiercingRockets/StarportTechLab
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command ResearchPlasmaCharge/RoboticsBay, in seed TheCore Lite
+Remap hints for command: ResearchPlasmaCharge/RoboticsBay
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command ResearchRecall/ArbiterTribunal, in seed TheCore Lite
+Remap hints for command: ResearchRecall/ArbiterTribunal
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command ResearchSingularityCharge2/CyberneticsCore, in seed TheCore Lite
+Remap hints for command: ResearchSingularityCharge2/CyberneticsCore
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command ResearchSpiderMines/FactoryTechLab, in seed TheCore Lite
+Remap hints for command: ResearchSpiderMines/FactoryTechLab
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command ResearchTimeWarp/FleetBeacon, in seed TheCore Lite
+Remap hints for command: ResearchTimeWarp/FleetBeacon
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command ResearchTitanReactor/StarportTechLab, in seed TheCore Lite
+Remap hints for command: ResearchTitanReactor/StarportTechLab
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command ResearchTurboGripper/StarportTechLab, in seed TheCore Lite
+Remap hints for command: ResearchTurboGripper/StarportTechLab
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command Rift/KhaydarinNexus, in seed TheCore Lite
+Remap hints for command: Rift/KhaydarinNexus
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command Rift/Nexus, in seed TheCore Lite
+Remap hints for command: Rift/Nexus
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command SIRoot/SIFactory, in seed TheCore Lite
+Remap hints for command: SIRoot/SIFactory
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command ShapedBlast/SiegeBreakerSieged, in seed TheCore Lite
+Remap hints for command: ShapedBlast/SiegeBreakerSieged
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command ShapedBlast/SiegeTankSieged, in seed TheCore Lite
+Remap hints for command: ShapedBlast/SiegeTankSieged
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command SlivanPuke/Devourer, in seed TheCore Lite
+Remap hints for command: SlivanPuke/Devourer
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command StasisField/Arbiter, in seed TheCore Lite
+Remap hints for command: StasisField/Arbiter
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command StasisField/ArbiterTribunal, in seed TheCore Lite
+Remap hints for command: StasisField/ArbiterTribunal
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command SuperStimpackStone, in seed TheCore Lite
+Remap hints for command: SuperStimpackStone
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command TimeWarpSentinel/Oracle, in seed TheCore Lite
+Remap hints for command: TimeWarpSentinel/Oracle
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command UpgradeLIDARTransmitter/EngineeringBay, in seed TheCore Lite
+Remap hints for command: UpgradeLIDARTransmitter/EngineeringBay
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command UpgradewithKhaydarinCore/Nexus, in seed TheCore Lite
+Remap hints for command: UpgradewithKhaydarinCore/Nexus
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command WarpInCorsair/Stargate, in seed TheCore Lite
+Remap hints for command: WarpInCorsair/Stargate
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command WarpInReaver/RoboticsFacility, in seed TheCore Lite
+Remap hints for command: WarpInReaver/RoboticsFacility
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command WarpinArbiterTribunal/Probe, in seed TheCore Lite
+Remap hints for command: WarpinArbiterTribunal/Probe
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command WarpinDragoon/Gateway, in seed TheCore Lite
+Remap hints for command: WarpinDragoon/Gateway
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command WarpinObservatory/Probe, in seed TheCore Lite
+Remap hints for command: WarpinObservatory/Probe
+List of forbidden keys:
+[]
+
 [ERROR]:  unbound command XaphanForce/Voranor, in seed TheCore Lite
+Remap hints for command: XaphanForce/Voranor
+List of forbidden keys:
+[]
+
 ----------------------------
 Finished (unbound commands, within identified conflicts) - ERRORs: 61 
 ============================

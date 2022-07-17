@@ -101,6 +101,7 @@ Start Check defaults (log file: Defaults.log)
 [WARN]: no default CommanderPrestigeDehakaPackLeadersRetreat/DehakaDakrun
 [WARN]: no default CommanderPrestigeDehakaPackLeadersRetreat/DehakaGlevig
 [WARN]: no default CommanderPrestigeDehakaPackLeadersRetreat/DehakaMurvar
+[WARN]: no default CommanderPrestigeZagaraMaxSupplyScourgeSpawn/ScourgeNest
 [WARN]: no default CommanderPrestigeZagaraZagaraDeepTunnel/ZagaraVoidCoop
 [WARN]: no default CoopMurvarSpawnCreepers/DehakaMurvar
 [WARN]: no default CorruptorStetmann/LarvaStetmann
@@ -115,6 +116,7 @@ Start Check defaults (log file: Defaults.log)
 [WARN]: no default DefensiveMatrixTarget/NovaDefensiveMatrixDrone
 [WARN]: no default DehakaAirAttack/DehakaCoop
 [WARN]: no default DehakaAirAttackUpgrade/DehakaCoop
+[WARN]: no default DehakaAirAttackUpgrade/DehakaCoopClone
 [WARN]: no default DehakaBarracks/DehakaDrone
 [WARN]: no default DehakaBuild/DehakaDrone
 [WARN]: no default DehakaConsume/DehakaCoop
@@ -302,6 +304,7 @@ Start Check defaults (log file: Defaults.log)
 [WARN]: no default LarvaStetmann
 [WARN]: no default LaunchNullWard/NullSphere
 [WARN]: no default LearnDehakaArmorUpgrade/DehakaCoop
+[WARN]: no default LearnDehakaArmorUpgrade/DehakaCoopClone
 [WARN]: no default LearnDehakaConsume/DehakaCoop
 [WARN]: no default LearnDehakaConsume/DehakaCoopClone
 [WARN]: no default LearnDehakaDetector/DehakaCoop
@@ -670,6 +673,7 @@ Start Check defaults (log file: Defaults.log)
 [WARN]: no default TechReactor/Barracks
 [WARN]: no default TechReactor/Factory
 [WARN]: no default TechReactor/Starport
+[WARN]: no default TempestResearchGroundAttackUpgrade/FleetBeacon
 [WARN]: no default TemplarArchive/Harvester
 [WARN]: no default TerranBuild
 [WARN]: no default TerranBuild/HHSCV
@@ -811,7 +815,9 @@ Start Check defaults (log file: Defaults.log)
 [WARN]: no default ZealotHallucination/Nexus
 [WARN]: no default ZealotHallucination/Voranor
 [WARN]: no default ZeratulBlink/ZeratulCoop
+[WARN]: no default ZeratulKhaydarinMonolithWarp/ZeratulKhaydarinMonolith
 [WARN]: no default ZeratulObserver/ZeratulRoboticsFacility
+[WARN]: no default ZeratulPhaseCannonProjectionPassive/ZeratulPhotonCannon
 [WARN]: no default ZeratulPurificationNovaTargeted/ZeratulDisruptor
 [WARN]: no default ZeratulReflectionShield/ZeratulSentry
 [WARN]: no default ZeratulStructureBarrier/ZeratulKhaydarinMonolith
@@ -834,11 +840,6 @@ Start Check defaults (log file: Defaults.log)
 [WARN]: no default Zergling/LarvaStetmann
 [WARN]: no default ZerglingStetmann/LarvaStetmann
 [WARN]: no default ZerglingStetmannRespawn/SpawningPoolStetmann
-[WARN]: no default CommanderPrestigeZagaraMaxSupplyScourgeSpawn/ScourgeNest
-[WARN]: no default DehakaAirAttackUpgrade/DehakaCoopClone
-[WARN]: no default LearnDehakaArmorUpgrade/DehakaCoopClone
-[WARN]: no default ZeratulKhaydarinMonolithWarp/ZeratulKhaydarinMonolith
-[WARN]: no default ZeratulPhaseCannonProjectionPassive/ZeratulPhotonCannon
 ----------------------------
-Finished (Check defaults) - WARNs: 838 ERRORs: 0 
+Finished (Check defaults) - WARNs: 839 ERRORs: 0 
 ============================
