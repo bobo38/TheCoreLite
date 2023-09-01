@@ -322,6 +322,8 @@ Start suggest inherit (log file: SuggestInheritance.log)
 	BrutaliskDeepTunnel/RoachBurrowed default: 
 	BrutaliskDeepTunnel/RoachVile default: 
 	BrutaliskDeepTunnel/RoachVileBurrowed default: 
+	BrutaliskDeepTunnel/SwarmHost default: 
+	BrutaliskDeepTunnel/SwarmHostBurrowed default: 
 	BuildCreepTumor/BroodMother default: C copyof: BuildCreepTumor/Queen default: C
 	BuildCreepTumor/Queen default: C
 	BuildCreepTumor/Queen2 default:  copyof: BuildCreepTumor/Queen default: C

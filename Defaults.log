@@ -841,6 +841,8 @@ Start Check defaults (log file: Defaults.log)
 [WARN]: no default Zergling/LarvaStetmann
 [WARN]: no default ZerglingStetmann/LarvaStetmann
 [WARN]: no default ZerglingStetmannRespawn/SpawningPoolStetmann
+[WARN]: no default BrutaliskDeepTunnel/SwarmHost
+[WARN]: no default BrutaliskDeepTunnel/SwarmHostBurrowed
 ----------------------------
-Finished (Check defaults) - WARNs: 840 ERRORs: 0 
+Finished (Check defaults) - WARNs: 842 ERRORs: 0 
 ============================

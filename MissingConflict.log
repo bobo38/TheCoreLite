@@ -2242,6 +2242,12 @@ in seed TheCore Lite, keys =D
 [ERROR]: ZerglingStetmannRespawn/SpawningPoolStetmann not related to a conflict
 in seed TheCore Lite, keys =G
 
+[ERROR]: BrutaliskDeepTunnel/SwarmHost not related to a conflict
+in seed TheCore Lite, keys =C
+
+[ERROR]: BrutaliskDeepTunnel/SwarmHostBurrowed not related to a conflict
+in seed TheCore Lite, keys =C
+
 [WARN]: 330mmBarrageCannons/Thor not related to a conflict
 but is inherited
 in seed TheCore Lite, keys =C
@@ -2891,5 +2897,5 @@ but is inherited
 in seed TheCore Lite, keys =T
 
 ----------------------------
-Finished (commands with no attached conflict) - ERRORs: 747 WARNs: 144 
+Finished (commands with no attached conflict) - ERRORs: 749 WARNs: 144 
 ============================
