@@ -1378,6 +1378,9 @@ in seed TheCore Lite, keys =E
 [ERROR]: ResearchMatrix/BarracksTechLab not related to a conflict
 in seed TheCore Lite, keys =
 
+[ERROR]: ResearchMedivacEnergyUpgrade/FusionCore not related to a conflict
+in seed TheCore Lite, keys =F
+
 [ERROR]: ResearchNovaDetector/GhostAcademyNova not related to a conflict
 in seed TheCore Lite, keys =F
 
@@ -1407,6 +1410,9 @@ in seed TheCore Lite, keys =F
 
 [ERROR]: ResearchRapidReignitionSystem/StarportTechLab not related to a conflict
 in seed TheCore Lite, keys =F
+
+[ERROR]: ResearchRavenInterferenceMatrix/StarportTechLab not related to a conflict
+in seed TheCore Lite, keys =Space
 
 [ERROR]: ResearchRavenRecalibratedExplosives/StarportTechLab not related to a conflict
 in seed TheCore Lite, keys =E
@@ -2885,5 +2891,5 @@ but is inherited
 in seed TheCore Lite, keys =T
 
 ----------------------------
-Finished (commands with no attached conflict) - ERRORs: 745 WARNs: 144 
+Finished (commands with no attached conflict) - ERRORs: 747 WARNs: 144 
 ============================

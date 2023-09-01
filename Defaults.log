@@ -520,6 +520,7 @@ Start Check defaults (log file: Defaults.log)
 [WARN]: no default ResearchMarauderMagrailMunitions/BarracksTechLab
 [WARN]: no default ResearchMarauderMagrailMunitions/BarracksTechReactor
 [WARN]: no default ResearchMatrix/BarracksTechLab
+[WARN]: no default ResearchMedivacEnergyUpgrade/FusionCore
 [WARN]: no default ResearchNovaDetector/GhostAcademyNova
 [WARN]: no default ResearchNovaLifeRegen/GhostAcademyNova
 [WARN]: no default ResearchNovaShotgunBlastRange/GhostAcademyNova
@@ -530,6 +531,7 @@ Start Check defaults (log file: Defaults.log)
 [WARN]: no default ResearchPlasmaCharge/RoboticsBay
 [WARN]: no default ResearchRapidReignitionSystem/FusionCore
 [WARN]: no default ResearchRapidReignitionSystem/StarportTechLab
+[WARN]: no default ResearchRavenInterferenceMatrix/StarportTechLab
 [WARN]: no default ResearchRavenRecalibratedExplosives/StarportTechLab
 [WARN]: no default ResearchRecall/ArbiterTribunal
 [WARN]: no default ResearchSIBarracksTrainInfestedCivilianLevel2/SICivilianStructure
@@ -840,5 +842,5 @@ Start Check defaults (log file: Defaults.log)
 [WARN]: no default ZerglingStetmann/LarvaStetmann
 [WARN]: no default ZerglingStetmannRespawn/SpawningPoolStetmann
 ----------------------------
-Finished (Check defaults) - WARNs: 838 ERRORs: 0 
+Finished (Check defaults) - WARNs: 840 ERRORs: 0 
 ============================

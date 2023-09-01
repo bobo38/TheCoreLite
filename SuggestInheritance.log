@@ -731,8 +731,6 @@ Start suggest inherit (log file: SuggestInheritance.log)
 	ResearchHighCapacityBarrels/FactoryTechReactor default: I copyof: ResearchHighCapacityBarrels/FactoryTechLab default: I
 	ResearchHydraliskStetmannRange/HydraliskDenStetmann default: 
 	ResearchHydraliskStetmannRange/LurkerDenStetmann default: 
-	ResearchMedivacEnergyUpgrade/StarportTechLab default: A
-	ResearchMedivacEnergyUpgrade/StarportTechReactor default: A copyof: ResearchMedivacEnergyUpgrade/StarportTechLab default: A
 	ResearchNovaLifeRegen/GhostAcademyNova default: 
 	ResearchPhobosClassWeaponsSystem/StarportTechLab default: B
 	ResearchPhobosClassWeaponsSystem/StarportTechReactor default: B
@@ -1403,6 +1401,9 @@ Start suggest inherit (log file: SuggestInheritance.log)
 	ResearchKaraxTurretAttackSpeed/Forge default: E
 	ResearchKaraxTurretAttackSpeed/KhaydarinMonolith default: E
 	ResearchKaraxTurretAttackSpeed/PhotonCannon default: E
+	ResearchMedivacEnergyUpgrade/FusionCore default: 
+	ResearchMedivacEnergyUpgrade/StarportTechLab default: A
+	ResearchMedivacEnergyUpgrade/StarportTechReactor default: A copyof: ResearchMedivacEnergyUpgrade/StarportTechLab default: A
 	ResearchMultiLockTargetingSystem/FactoryTechLab default: W
 	ResearchMultiLockTargetingSystem/FactoryTechReactor default: W copyof: ResearchMultiLockTargetingSystem/FactoryTechLab default: W
 	ResearchNovaDetector/GhostAcademyNova default: 
@@ -2115,6 +2116,7 @@ Start suggest inherit (log file: SuggestInheritance.log)
 	ResearchPsiStorm/TemplarArchive default: T
 	ResearchRavenEnergyUpgrade/StarportTechLab default: T
 	ResearchRavenEnergyUpgrade/StarportTechReactor default: T copyof: ResearchRavenEnergyUpgrade/StarportTechLab default: T
+	ResearchRavenInterferenceMatrix/StarportTechLab default: 
 	ResearchShapedBlast/FactoryTechLab default: B copyof: SiegeTank/Factory default: S
 	ResearchShapedBlast/FactoryTechReactor default: B copyof: ResearchSiegeTech/FactoryTechLab default: S
 	ResearchSiegeTank/ScienceFacility default: T copyof: SiegeTank/Factory default: S

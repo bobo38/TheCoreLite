@@ -1689,7 +1689,6 @@ ResearchMarauderMagrailMunitions/BarracksTechLab=
 ResearchMarauderMagrailMunitions/BarracksTechReactor=
 ResearchMatrix/BarracksTechLab=
 ResearchMedic/ScienceFacility=C
-ResearchMedivacEnergyUpgrade/FusionCore=
 ResearchMedivacEnergyUpgrade/StarportTechLab=A
 ResearchMedivacEnergyUpgrade/StarportTechReactor=A
 ResearchMultiLockTargetingSystem/FactoryTechLab=W
@@ -1718,7 +1717,6 @@ ResearchRapidReignitionSystem/FusionCore=
 ResearchRapidReignitionSystem/StarportTechLab=
 ResearchRavenEnergyUpgrade/StarportTechLab=T
 ResearchRavenEnergyUpgrade/StarportTechReactor=T
-ResearchRavenInterferenceMatrix/StarportTechLab=
 ResearchRavenRecalibratedExplosives/StarportTechLab=
 ResearchReaper/ScienceFacility=R
 ResearchReaperSpiderMines/BarracksTechLab=M
@@ -2109,7 +2107,11 @@ TechReactorAI/StarportFlying=Z
 Tempest/Stargate=T
 TempestDisruptionBlast/Tempest=D
 TempestRangeUpgrade/FleetBeacon=S
+<<<<<<< HEAD
+TempestResearchGroundAttackUpgrade/FleetBeacon=
+=======
 TempestResearchGroundAttackUpgrade/FleetBeacon=T
+>>>>>>> a8bd5705bfac99fac903f230a87afda7285e7b54
 TemplarArchive/Harvester=
 TemplarArchive/Probe=T
 TemporalField/Mothership=T, C
