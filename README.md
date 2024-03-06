@@ -855,7 +855,7 @@ Changes implemented at my local copy:
 * use mouse only for browsing subgroup Back/ForwardMouseButton, to free Tab
 * change Select All Army to keybind to allow group modifiers with Tab (by me Shift+Tab)
 * use Tab as CapsLock group
-* CapsLock is now free to be used as Control modifier with external software
+* CapsLock is now free to be used as Control modifier with external software. Note: you may not be able to use Alt in conjunction with Tab. Consequently, I only have the Ctrl and Shift+Ctrl functions for this control group.
 
 ## Other possible tweaks
 
