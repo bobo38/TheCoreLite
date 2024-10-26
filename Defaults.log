@@ -58,6 +58,8 @@ Start Check defaults (log file: Defaults.log)
 [WARN]: no default BrutaliskDeepTunnel/RoachBurrowed
 [WARN]: no default BrutaliskDeepTunnel/RoachVile
 [WARN]: no default BrutaliskDeepTunnel/RoachVileBurrowed
+[WARN]: no default BrutaliskDeepTunnel/SwarmHost
+[WARN]: no default BrutaliskDeepTunnel/SwarmHostBurrowed
 [WARN]: no default BuildCreepTumor/Queen2
 [WARN]: no default BuildDehakaExtractor/DehakaHatchery
 [WARN]: no default BuildHHBomberPlatform/HHSCV
@@ -167,6 +169,7 @@ Start Check defaults (log file: Defaults.log)
 [WARN]: no default EMP/ScienceVessel
 [WARN]: no default EnableBuildingAttack/baneling
 [WARN]: no default EnableBuildingAttack/baneling2
+[WARN]: no default EnergyRecharge/Nexus
 [WARN]: no default EngineeringBayMengsk/SCVMengsk
 [WARN]: no default EnrageQueen/Queen
 [WARN]: no default EntropicBlast/ZeratulXelNagaConstructCyan
@@ -521,6 +524,7 @@ Start Check defaults (log file: Defaults.log)
 [WARN]: no default ResearchMarauderMagrailMunitions/BarracksTechReactor
 [WARN]: no default ResearchMatrix/BarracksTechLab
 [WARN]: no default ResearchMedivacEnergyUpgrade/FusionCore
+[WARN]: no default ResearchNeuralParasite/HydraliskDen
 [WARN]: no default ResearchNovaDetector/GhostAcademyNova
 [WARN]: no default ResearchNovaLifeRegen/GhostAcademyNova
 [WARN]: no default ResearchNovaShotgunBlastRange/GhostAcademyNova
@@ -617,6 +621,7 @@ Start Check defaults (log file: Defaults.log)
 [WARN]: no default Salvage/NovaACLaserTurret
 [WARN]: no default Salvage/SIMissileTurret
 [WARN]: no default Salvage/SIMissileTurretFlying
+[WARN]: no default Salvage/SensorTower
 [WARN]: no default Salvage/TychusSCVAutoTurret
 [WARN]: no default SentryZeratul/ZeratulGateway
 [WARN]: no default SiegeModeMengsk
@@ -841,8 +846,6 @@ Start Check defaults (log file: Defaults.log)
 [WARN]: no default Zergling/LarvaStetmann
 [WARN]: no default ZerglingStetmann/LarvaStetmann
 [WARN]: no default ZerglingStetmannRespawn/SpawningPoolStetmann
-[WARN]: no default BrutaliskDeepTunnel/SwarmHost
-[WARN]: no default BrutaliskDeepTunnel/SwarmHostBurrowed
 ----------------------------
-Finished (Check defaults) - WARNs: 842 ERRORs: 0 
+Finished (Check defaults) - WARNs: 845 ERRORs: 0 
 ============================

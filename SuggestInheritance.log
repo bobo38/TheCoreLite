@@ -374,6 +374,7 @@ Start suggest inherit (log file: SuggestInheritance.log)
 	DigesterCreepSpray/NydusCanalCreeper default: C
 	DownloadBackupPart1/CybrosEscortDownloader default: 
 	EnergyChannel/XelNagaObeliskAiur06 default: C
+	EnergyRecharge/Nexus default: 
 	EvolveDevourerAoEDamage/GreaterSpire default: D
 	EvolveDevourerAoEDamage/Spire default: D
 	EvolveHydriodicBile/GreaterRoachWarren default: B
@@ -1440,6 +1441,7 @@ Start suggest inherit (log file: SuggestInheritance.log)
 	Salvage/PerditionTurretUnderground default: V
 	Salvage/SIMissileTurret default: 
 	Salvage/SIMissileTurretFlying default: 
+	Salvage/SensorTower default: 
 	Salvage/TychusSCVAutoTurret default: 
 	SelfRepair/Thor default: R
 	SelfRepair/ThorWreckageSwann default: R
@@ -2113,6 +2115,7 @@ Start suggest inherit (log file: SuggestInheritance.log)
 	ResearchLurkerRange/HydraliskDen default: E
 	ResearchLurkerRange/LurkerDen default: E
 	ResearchLurkerRange/LurkerDenMP default: D, E
+	ResearchNeuralParasite/HydraliskDen default: 
 	ResearchNeuralParasite/InfestationPit default: E
 	ResearchNovaSnipeRefund/GhostAcademyNova default: 
 	ResearchPsiStorm/TemplarArchive default: T

@@ -145,6 +145,12 @@ in seed TheCore Lite, keys =C
 [ERROR]: BrutaliskDeepTunnel/RoachVileBurrowed not related to a conflict
 in seed TheCore Lite, keys =C
 
+[ERROR]: BrutaliskDeepTunnel/SwarmHost not related to a conflict
+in seed TheCore Lite, keys =C
+
+[ERROR]: BrutaliskDeepTunnel/SwarmHostBurrowed not related to a conflict
+in seed TheCore Lite, keys =C
+
 [ERROR]: BuildDehakaExtractor/DehakaHatchery not related to a conflict
 in seed TheCore Lite, keys =F
 
@@ -417,6 +423,9 @@ in seed TheCore Lite, keys =Space
 
 [ERROR]: EMP/ScienceVessel not related to a conflict
 in seed TheCore Lite, keys =E
+
+[ERROR]: EnergyRecharge/Nexus not related to a conflict
+in seed TheCore Lite, keys =C
 
 [ERROR]: EngineeringBayMengsk/SCVMengsk not related to a conflict
 in seed TheCore Lite, keys =4
@@ -1381,6 +1390,9 @@ in seed TheCore Lite, keys =
 [ERROR]: ResearchMedivacEnergyUpgrade/FusionCore not related to a conflict
 in seed TheCore Lite, keys =F
 
+[ERROR]: ResearchNeuralParasite/HydraliskDen not related to a conflict
+in seed TheCore Lite, keys =Space
+
 [ERROR]: ResearchNovaDetector/GhostAcademyNova not related to a conflict
 in seed TheCore Lite, keys =F
 
@@ -1661,6 +1673,9 @@ in seed TheCore Lite, keys =F
 in seed TheCore Lite, keys =F
 
 [ERROR]: Salvage/SIMissileTurretFlying not related to a conflict
+in seed TheCore Lite, keys =F
+
+[ERROR]: Salvage/SensorTower not related to a conflict
 in seed TheCore Lite, keys =F
 
 [ERROR]: Salvage/TychusSCVAutoTurret not related to a conflict
@@ -2241,12 +2256,6 @@ in seed TheCore Lite, keys =D
 
 [ERROR]: ZerglingStetmannRespawn/SpawningPoolStetmann not related to a conflict
 in seed TheCore Lite, keys =G
-
-[ERROR]: BrutaliskDeepTunnel/SwarmHost not related to a conflict
-in seed TheCore Lite, keys =C
-
-[ERROR]: BrutaliskDeepTunnel/SwarmHostBurrowed not related to a conflict
-in seed TheCore Lite, keys =C
 
 [WARN]: 330mmBarrageCannons/Thor not related to a conflict
 but is inherited
@@ -2897,5 +2906,5 @@ but is inherited
 in seed TheCore Lite, keys =T
 
 ----------------------------
-Finished (commands with no attached conflict) - ERRORs: 749 WARNs: 144 
+Finished (commands with no attached conflict) - ERRORs: 752 WARNs: 144 
 ============================
